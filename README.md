@@ -1,4 +1,19 @@
 # DeMu
+<img alt="logo" src="https://www.objectionary.com/cactus.svg" height="100px" />
+
+[![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
+[![DevOps By Rultor.com](http://www.rultor.com/b/objectionary/eo)](http://www.rultor.com/p/objectionary/eo)
+[![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
+
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/b8b59692f3c8c973ac54/maintainability)](https://codeclimate.com/github/MCJOHN974/DeMu/maintainability)
+
+[![codecov](https://codecov.io/gh/objectionary/eo/branch/master/graph/badge.svg)](https://codecov.io/gh/MCJOHN974/DeMu)
+[![Hits-of-Code](https://hitsofcode.com/github/objectionary/eo)](https://hitsofcode.com/view/github/MCJOHN974/DeMu)
+![Lines of code](https://img.shields.io/tokei/lines/github/MCJOHN974/DeMu)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/MCJOHN974/DeMu/blob/master/LICENSE.txt)
+
+
 This is an algorithm that demutabilize code in [EO language](https://github.com/objectionary/eo)
 
 It has an ``.eo`` (or ``.xmir``) files as input and returns ``.eo`` (or ``.xmir``) file as output.
